@@ -7,5 +7,6 @@ public class SayHello {
         System.out.println("11111111111111");
         System.out.println("大家好大家好大家好大家好");
         System.out.println("hi~");
+        System.out.println("aaaaaaaaaaaaaaaaaaa");
     }
 }
